@@ -1,1 +1,2 @@
 gracz:5
+dziewiec:20
