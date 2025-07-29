@@ -6,5 +6,5 @@ Test5:6:10
 Ola:38:1002
 Test6:65:65
 NizKopanie:65:65
-dziewiec:5:5
+dziewiec:79:82
 gracz:1:1
