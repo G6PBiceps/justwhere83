@@ -1,1 +1,2 @@
 gracz:1
+dziewiec:1
