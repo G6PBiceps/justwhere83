@@ -9,3 +9,4 @@ NizKopanie:65:65
 NizKopanie2:79:82
 dziewiec:9:9
 gracz:1:1
+copilot:copilot:copilot
