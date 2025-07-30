@@ -1,2 +1,2 @@
 gracz:5
-dziewiec:3
+dziewiec:28
