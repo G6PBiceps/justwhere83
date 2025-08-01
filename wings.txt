@@ -10,4 +10,3 @@ NizKopanie2:79:82
 dziewiec:79:79
 gracz:1:1
 copilot:9999:9999
-test:testu9:5
