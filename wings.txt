@@ -10,3 +10,5 @@ NizKopanie2:79:82
 dziewiec:9999:82
 gracz:1:1
 copilot:9999:9999
+bar7ussss:65:65
+gtp_topkka_1:10:10
