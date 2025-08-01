@@ -1,4 +1,5 @@
 TrombaPowietrzna:1
+dziewiec:5
 1:1
 2:2
 333:3
