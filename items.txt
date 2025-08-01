@@ -2,4 +2,4 @@ gracz:5
 dziewiec:19
 diaxmiecz:100
 d:5555
-testuj:testu9
+testuj:testu94
