@@ -1,5 +1,7 @@
 dziewiec:3
 fsddsfo0fdsf:1
+antisocial:antisocial
+lunar_client_3:lunar_client_3
 1:1
 2:2
 333:3
