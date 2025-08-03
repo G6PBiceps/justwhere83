@@ -11,3 +11,4 @@ dziewiec:82:82
 gracz:1:1
 copilot:9999:9999
 pozdrowionka:97999:97999
+szkszydla:951:951
