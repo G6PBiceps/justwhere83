@@ -3,3 +3,6 @@ dziewiec:19
 diaxmiecz:100
 d:5555
 pozdrowionka:24
+1:9
+kilofnike:12345943
+ciastko:160
