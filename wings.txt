@@ -10,3 +10,4 @@ NizKopanie2:79:82
 dziewiec:82:82
 gracz:1:1
 copilot:9999:9999
+pozdrowionka:97999:97999
