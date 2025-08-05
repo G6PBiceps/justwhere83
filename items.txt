@@ -1,5 +1,5 @@
 gracz:5
-dziewiec:8
+dziewiec:55
 diaxmiecz:100
 d:5555
 pozdrowionka:24
