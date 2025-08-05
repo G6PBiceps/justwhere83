@@ -7,7 +7,7 @@ Ola:38:1002
 Test6:65:65
 NizKopanie:65:65
 NizKopanie2:79:82
-dziewiec:82:82
+dziewiec:82:54
 gracz:1:1
 copilot:9999:9999
 pozdrowionka:97999:97999
