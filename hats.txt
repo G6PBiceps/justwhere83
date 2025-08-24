@@ -1,2 +1,4 @@
 gracz:1
 dziewiec:1
+OlaCola11:1
+F_TF_T:1
